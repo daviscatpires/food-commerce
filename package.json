@@ -1,7 +1,6 @@
 {
   "name": "food-commerce-dev",
   "version": "0.1.0",
-  "homepage": "https://daviscatpires.github.io/food-commerce",
   "dependencies": {
     "@brazilian-utils/brazilian-utils": "^1.0.0-rc.12",
     "@hookform/resolvers": "^3.1.0",
