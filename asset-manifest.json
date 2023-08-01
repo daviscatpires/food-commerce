@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/food-commerce/static/css/main.98ec47ca.css",
+    "main.js": "/food-commerce/static/js/main.dec0f0c9.js",
+    "static/js/787.18dd5cbe.chunk.js": "/food-commerce/static/js/787.18dd5cbe.chunk.js",
+    "static/media/man-and-burger.svg": "/food-commerce/static/media/man-and-burger.088b4009546779e5c81243fdfd47a611.svg",
+    "static/media/logo.svg": "/food-commerce/static/media/logo.776fd2f26bbaceaa94cb37eacda1125a.svg",
+    "static/media/pizza.svg": "/food-commerce/static/media/pizza.7597709b6de8ebcd12ee8d59b8a933d6.svg",
+    "static/media/burger.svg": "/food-commerce/static/media/burger.ba7a8a0db54444ea776a4e810868cd63.svg",
+    "static/media/soda.svg": "/food-commerce/static/media/soda.cf3f9ec6dcabf9d51e8fd58fd459b0fa.svg",
+    "static/media/ice-cream.svg": "/food-commerce/static/media/ice-cream.5f5274f9466778cb55c388b83c6293ee.svg",
+    "static/media/shopping-cart.svg": "/food-commerce/static/media/shopping-cart.25d65fd4129d9dc579d2b101ff86f6aa.svg",
+    "index.html": "/food-commerce/index.html",
+    "static/media/circle-plus.svg": "/food-commerce/static/media/circle-plus.001449881836016a4e97be030ba805a4.svg",
+    "static/media/circle-minus.svg": "/food-commerce/static/media/circle-minus.3d63ec4f41e86a2f236b092eda5375ad.svg",
+    "static/media/menu.svg": "/food-commerce/static/media/menu.84f2d6de86bf1c8f59292b480bb931ba.svg",
+    "main.98ec47ca.css.map": "/food-commerce/static/css/main.98ec47ca.css.map",
+    "main.dec0f0c9.js.map": "/food-commerce/static/js/main.dec0f0c9.js.map",
+    "787.18dd5cbe.chunk.js.map": "/food-commerce/static/js/787.18dd5cbe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98ec47ca.css",
+    "static/js/main.dec0f0c9.js"
+  ]
+}
